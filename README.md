@@ -21,7 +21,3 @@ Full-stack engineer at **METY Foundation** and **MyEdMaster LLC**, based in Lowe
 
 `Python` · `FastAPI` · `SQLAlchemy` · `PostgreSQL` · `TypeScript` · `React` · `Vite` ·
 `Tailwind CSS` · `Docker` · `Google Cloud Run` · `Netlify` · `GitHub Actions`
-
-### Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saurin%20Prajapati-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurin-prajapati/)
